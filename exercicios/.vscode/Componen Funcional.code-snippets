@@ -1,0 +1,20 @@
+{
+	"Componente Funcional": {
+		"scope": "javascript,typescript",
+		"prefix": "comprs",
+		"body": [
+			"import React from 'react';",
+			"import {View, Button, Text } from 'react-native';",
+			"import style from './styles';",
+			"",
+			"export default (props) => {",
+			"    return (",
+			"        <Text>",
+			"            $1",
+			"        </Text>",
+			"    )",
+			"}",
+		],
+		"description": "Create a component React Native with Style import"
+	}
+}
